@@ -1,5 +1,9 @@
 # cool756
 
+![](img/img00003.jpg)
+![](img/img00005.jpg)
+
+<br>
 # What is cool756?
 
 cool756 is designed by m.ki.
