@@ -16,6 +16,7 @@ soon.
 
 # firmware
 
+https://github.com/telzo2000/cool756/tree/main/firmware
 <br>
 
 
