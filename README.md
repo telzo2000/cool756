@@ -4,6 +4,7 @@
 ![](img/img00005.jpg)
 
 <br>
+
 # What is cool756?
 
 cool756 is designed by m.ki.
@@ -13,6 +14,7 @@ cool756 is a keyboard.
 This keyboard has 56 keys or 55keys and trackball.
 <br>
 <br>
+
 # build guide
 
 soon.
