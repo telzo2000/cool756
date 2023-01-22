@@ -302,7 +302,7 @@ Place the switch plate and PCB on the bottom plate and tighten the 13 M2 screws.
 ボトムプレートの上に、スイッチプレートとPCBを載せて、M2ネジで13箇所を締めてください。
 <br>
 <br>
-ミドルプレート使用時
+ミドルプレート使用時<br>
 ![](img/img00003.jpg)
 
 ## Case2
