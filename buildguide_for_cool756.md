@@ -35,7 +35,7 @@ Please read it and then work on it.
 
 ### 1 Parts check
 
-Front side（表面）
+Front side（表面）<br>
 ![](img/img00007.jpg)
 
 Please cut.
@@ -324,10 +324,10 @@ Note the orientation of the key switch.
 <br>
 キースイッチの向きに注意してください。
 <br>
-Good
+Good<br>
 ![](img/img00011.jpg)
 <br>
-Not good
+Not good<br>
 ![](img/img00010.jpg)
 
 <br>
@@ -503,7 +503,7 @@ Place the switch plate and PCB on the bottom plate and tighten the 13 M2 screws.
 ボトムプレートの上に、スイッチプレートとPCBを載せて、M2ネジで13箇所を締めてください。
 <br>
 <br>
-ミドルプレート使用時
+ミドルプレート使用時<br>
 
 ![](img/img00003.jpg)
 
@@ -518,16 +518,16 @@ In addition to PIM447, four M2 screws 8mm (low head screws), eight M2 nuts, and 
 <br><br>
 PIM447との他に、M2ネジ8mm４本（低頭ネジ）、M2ナット８個、ピンヘッダが必要となります。
 <br><br>
-上からネジを差し込み、下でナットを締めます。
+上からネジを差し込み、下でナットを締めます。<br>
 ![](img/img00014.jpg)
 ![](img/img00015.jpg)
-PCBに差し込んで、その下からナットを締めます。
+PCBに差し込んで、その下からナットを締めます。<br>
 ![](img/img00013.jpg)
 ![](img/img00012.jpg)
-ピンの長さを調節して、差し込んではんだ付けをします。
+ピンの長さを調節して、差し込んではんだ付けをします。<br>
 ![](img/img00017.jpg)
 ![](img/img00018.jpg)
-スイッチプレートを被せると、このようになります。
+スイッチプレートを被せると、このようになります。<br>
 ![](img/img00001.jpg)
 <br>
 <br>
