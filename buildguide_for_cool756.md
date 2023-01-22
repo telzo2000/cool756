@@ -532,6 +532,8 @@ PCBに差し込んで、その下からナットを締めます。
 <br>
 
 
+
+
 Have a fun selfmade keyboard life!
 <br>
 楽しい自作キーボード生活を!
