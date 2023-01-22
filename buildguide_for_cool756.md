@@ -504,6 +504,7 @@ Place the switch plate and PCB on the bottom plate and tighten the 13 M2 screws.
 <br>
 <br>
 ミドルプレート使用時
+
 ![](img/img00003.jpg)
 
 ### OPtion  Installing PIM447 Trackball
