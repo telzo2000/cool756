@@ -16,6 +16,8 @@
 |7|Diode<br>ダイオード|56|リードタイプでもSMDでも可|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)等|100個で220円程度から|
 
 この他に、USBケーブル、キーキャップ等が必要です。
+<br><br>
+
 
 ## Firmware
 
@@ -25,6 +27,8 @@
 [remap](https://remap-keys.app/)
 
 <br>
+<br><br>
+
 
 ## Build
 
@@ -32,6 +36,7 @@ Please read it and then work on it.
 <br>
 一読してから、作業をしてください。
 <br><br>
+
 
 ### 1 Parts check
 
@@ -44,6 +49,8 @@ Please cut.
 <br>
 ![](img/img00008.jpg)
 ![](img/img00009.jpg)
+
+<br><br>
 
 
 ### 2 Diode soldering
@@ -103,6 +110,7 @@ After soldering, use nippers to cut off the protruding legs.
 <br>
 <br>
 
+
 ## Case 1
 If you use cool756 with hot swap, please proceed here.
 <br>
@@ -143,6 +151,7 @@ You can make it easier by working while holding it with tweezers.
 [８倍速　Switch socketハンダ付け動画](https://youtu.be/E__mHvmIXQo)
 
 <br><br>
+
 
 ### 4 Pro micro
 
@@ -271,6 +280,7 @@ Plug the key switch into the switch plate and then into the switch socket on the
 <br>
 <br>
 
+
 ### 7 Bottom plate
 
 Insert the M2 screw from the bottom surface of the bottom plate and tighten it with the M2 spacer on the top surface.
@@ -282,6 +292,7 @@ Insert the M2 screw from the bottom surface of the bottom plate and tighten it w
 13箇所行います。
 <br>
 <br>
+
 
 ### Option Middle plate
 
@@ -317,6 +328,7 @@ If you want to solder directly without using a switch socket, proceed here.
 <br>
 <br>
 
+
 ### 3 Switch plate
 
 Insert your favorite key switch from the top of the switch plate.
@@ -336,6 +348,7 @@ Not good<br>
 
 <br>
 <br>
+
 
 ### 4 Pro micro
 
@@ -487,6 +500,7 @@ Insert the M2 screw from the bottom surface of the bottom plate and tighten it w
 13箇所行います。
 <br>
 <br>
+
 
 ### Option Middle plate
 
