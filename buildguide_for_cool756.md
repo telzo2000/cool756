@@ -294,7 +294,7 @@ Next, stack the acrylic parts so that they pass through the bottom plate spacer.
 <br>
 次にボトムプレートのスペーサーを通すように、アクリル部品を重ねてください。
 <br>
-
+<br>
 ### 8 Finish
 
 Place the switch plate and PCB on the bottom plate and tighten the 13 M2 screws.
@@ -304,6 +304,10 @@ Place the switch plate and PCB on the bottom plate and tighten the 13 M2 screws.
 <br>
 ミドルプレート使用時<br>
 ![](img/img00003.jpg)
+
+<br>
+<br>
+
 
 ## Case2
 
@@ -471,7 +475,7 @@ If it's OK, solder all the key switch legs and PCB terminals.
 <br>
 問題ないのであれば、全てのキースイッチの足とPCBの端子をはんだ付けします。
 <br>
-
+<br>
 ### 7 Bottom plate
 
 Insert the M2 screw from the bottom surface of the bottom plate and tighten it with the M2 spacer on the top surface.
@@ -495,6 +499,7 @@ Next, stack the acrylic parts so that they pass through the bottom plate spacer.
 <br>
 次にボトムプレートのスペーサーを通すように、アクリル部品を重ねてください。
 <br>
+<br>
 
 ### 8 Finish
 
@@ -506,6 +511,9 @@ Place the switch plate and PCB on the bottom plate and tighten the 13 M2 screws.
 ミドルプレート使用時<br>
 
 ![](img/img00003.jpg)
+
+<br>
+<br>
 
 ### Option  Installing PIM447 Trackball
 
