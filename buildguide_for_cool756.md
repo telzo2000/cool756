@@ -507,7 +507,7 @@ Place the switch plate and PCB on the bottom plate and tighten the 13 M2 screws.
 
 ![](img/img00003.jpg)
 
-### OPtion  Installing PIM447 Trackball
+### Option  Installing PIM447 Trackball
 
 A PIM447trackball can be attached to the cool756.
 <br><br>
@@ -540,6 +540,7 @@ PCBに差し込んで、その下からナットを締めます。<br>
 
 Have a fun selfmade keyboard life!
 <br>
-楽しい自作キーボード生活を!
+楽しい自作キーボード生活を!<br>
+
 ![](img/img00005.jpg)
 
