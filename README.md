@@ -17,7 +17,7 @@ This keyboard has 56 keys or 55keys and trackball.
 
 # build guide
 
-soon.
+https://github.com/telzo2000/cool756/blob/main/buildguide_for_cool756.md
 <br>
 
 # firmware
