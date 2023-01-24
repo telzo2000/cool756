@@ -14,6 +14,7 @@
 |5|pro micro|1|ピンヘッダ含む|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)等|価格変動中|
 |6|Swith socket<br>スイッチソケット|56|cherry MX互換<br>無くても可|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)等|10個で165円程度|
 |7|Diode<br>ダイオード|56|リードタイプでもSMDでも可|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)等|100個で220円程度から|
+|８|Trackball|1|PIM447|[PIMONORI](https://shop.pimoroni.com)<br>[マルツ](https://www.marutsu.co.jp/pc/i/32844496/)|3000円程度
 
 この他に、USBケーブル、キーキャップ等が必要です。
 <br><br>
