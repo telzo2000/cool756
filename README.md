@@ -24,5 +24,7 @@ https://github.com/telzo2000/cool756/blob/main/buildguide_for_cool756.md
 
 https://github.com/telzo2000/cool756/tree/main/firmware
 <br>
+# Sales site
 
+https://mki0002ozlet.booth.pm/items/4491960
 
